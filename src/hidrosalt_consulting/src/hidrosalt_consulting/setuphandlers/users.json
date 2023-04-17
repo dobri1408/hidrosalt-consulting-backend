@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "dobriceanionut1408@gmail.com",
+      "properties": {
+        "fullname": "Hidrosalt Consulting",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "hidrosalt-consulting"
+    }
+  ],
+    "team": [
+  ]
+}
